@@ -1,0 +1,10 @@
+{
+   "verbose": true,
+   "watch": [
+    "src/**/*.js",
+    "src/**/*.graphql",
+    "/usr/local/lib/gdp-module-one-example"
+  ],
+   "runOnChangeOnly": false,
+   "ext": "js json graphql"
+ }
